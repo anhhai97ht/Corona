@@ -1,0 +1,48 @@
+2020-11-18T02:16:23+00:00 CRITICAL Out of memory (allocated 25165824) (tried to allocate 2147208 bytes) in C:\xampp\htdocs\corona\wp-content\plugins\elementor\core\common\modules\ajax\module.php on line 265
+
+2020-11-18T02:17:00+00:00 CRITICAL Out of memory (allocated 10485760) (tried to allocate 8192 bytes) in C:\xampp\htdocs\corona\wp-content\plugins\elementor\includes\base\controls-stack.php on line 1800
+
+2020-11-18T02:17:26+00:00 CRITICAL Out of memory (allocated 16777216) (tried to allocate 20480 bytes) in C:\xampp\htdocs\corona\wp-includes\functions.php on line 446
+
+2020-11-18T02:17:33+00:00 CRITICAL Out of memory (allocated 18874368) (tried to allocate 20480 bytes) in C:\xampp\htdocs\corona\wp-includes\functions.php on line 446
+
+2020-11-18T02:18:16+00:00 CRITICAL Out of memory (allocated 20971520) (tried to allocate 2097152 bytes) in C:\xampp\htdocs\corona\wp-includes\functions.php on line 3586
+
+2020-11-18T02:19:43+00:00 CRITICAL Out of memory (allocated 33554432) (tried to allocate 2147208 bytes) in C:\xampp\htdocs\corona\wp-content\plugins\elementor\core\common\modules\ajax\module.php on line 265
+
+2020-11-18T03:21:26+00:00 CRITICAL Out of memory (allocated 12582912) (tried to allocate 18267728 bytes) in C:\xampp\htdocs\corona\wp-includes\class-wp-image-editor-gd.php on line 96
+
+2020-11-18T03:22:38+00:00 CRITICAL Out of memory (allocated 41943040) (tried to allocate 12288 bytes) in C:\xampp\htdocs\corona\wp-includes\media.php on line 2948
+
+2020-11-18T03:24:20+00:00 CRITICAL Out of memory (allocated 46137344) (tried to allocate 12288 bytes) in C:\xampp\htdocs\corona\wp-includes\media.php on line 2948
+
+2020-11-18T07:14:50+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 114688 bytes) in C:\xampp\htdocs\corona\wp-content\plugins\themeftc-for-elementor\widgets\ftc-hotspot.php on line 718
+
+2020-11-18T07:14:53+00:00 CRITICAL Out of memory (allocated 23068672) (tried to allocate 929792 bytes) in C:\xampp\htdocs\corona\wp-content\plugins\elementor\includes\utils.php on line 456
+
+2020-11-18T07:15:02+00:00 CRITICAL Out of memory (allocated 14680064) (tried to allocate 929792 bytes) in C:\xampp\htdocs\corona\wp-content\plugins\elementor\includes\utils.php on line 456
+
+2020-11-18T07:15:29+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 32768 bytes) in C:\xampp\htdocs\corona\wp-content\plugins\themeftc-for-elementor\widgets\ftc-price-table.php on line 2019
+
+2020-11-18T07:15:29+00:00 CRITICAL Out of memory (allocated 12582912) (tried to allocate 16384 bytes) in C:\xampp\htdocs\corona\wp-includes\capabilities.php on line 971
+
+2020-11-18T07:15:45+00:00 CRITICAL Out of memory (allocated 12582912) (tried to allocate 32768 bytes) in C:\xampp\htdocs\corona\wp-includes\wp-db.php on line 2007
+
+2020-11-18T07:16:10+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 1286144 bytes) in C:\xampp\htdocs\corona\wp-includes\class.wp-scripts.php on line 369
+
+2020-11-18T07:17:15+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 1286144 bytes) in C:\xampp\htdocs\corona\wp-includes\class.wp-scripts.php on line 369
+
+2020-11-18T07:18:48+00:00 CRITICAL Out of memory (allocated 18874368) (tried to allocate 2101248 bytes) in C:\xampp\htdocs\corona\wp-includes\functions.php on line 3586
+
+2020-11-18T07:36:09+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 8192 bytes) in C:\xampp\htdocs\corona\wp-includes\wp-db.php on line 1972
+
+2020-11-18T07:44:48+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 1286144 bytes) in C:\xampp\htdocs\corona\wp-includes\class.wp-scripts.php on line 369
+
+2020-11-18T07:45:36+00:00 CRITICAL Out of memory (allocated 23068672) (tried to allocate 929792 bytes) in C:\xampp\htdocs\corona\wp-includes\class.wp-scripts.php on line 420
+
+2020-11-18T07:46:32+00:00 CRITICAL Out of memory (allocated 29360128) (tried to allocate 1286144 bytes) in C:\xampp\htdocs\corona\wp-includes\class.wp-scripts.php on line 369
+
+2020-11-18T07:48:03+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 16384 bytes) in C:\xampp\htdocs\corona\wp-content\plugins\elementor\includes\base\widget-base.php on line 523
+
+2020-11-18T07:49:27+00:00 CRITICAL Out of memory (allocated 18874368) (tried to allocate 2097152 bytes) in C:\xampp\htdocs\corona\wp-includes\functions.php on line 3586
+

@@ -1,0 +1,20 @@
+2020-12-09T02:21:12+00:00 CRITICAL Out of memory (allocated 18874368) (tried to allocate 8192 bytes) in C:\xampp\htdocs\corona\wp-content\plugins\elementor\includes\base\controls-stack.php on line 1085
+
+2020-12-09T02:21:13+00:00 CRITICAL Out of memory (allocated 14680064) (tried to allocate 28672 bytes) in C:\xampp\htdocs\corona\wp-content\plugins\revslider\includes\googlefonts.php on line 43
+
+2020-12-09T02:21:14+00:00 CRITICAL Out of memory (allocated 18874368) (tried to allocate 28672 bytes) in C:\xampp\htdocs\corona\wp-content\plugins\revslider\includes\googlefonts.php on line 43
+
+2020-12-09T02:22:52+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 28672 bytes) in C:\xampp\htdocs\corona\wp-admin\includes\theme.php on line 741
+
+2020-12-09T02:22:53+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 28672 bytes) in C:\xampp\htdocs\corona\wp-content\plugins\revslider\includes\googlefonts.php on line 43
+
+2020-12-09T02:22:53+00:00 CRITICAL Out of memory (allocated 10485760) (tried to allocate 32768 bytes) in C:\xampp\htdocs\corona\wp-content\plugins\revslider\includes\googlefonts.php on line 2869
+
+2020-12-09T02:23:01+00:00 CRITICAL Out of memory (allocated 10485760) (tried to allocate 28672 bytes) in C:\xampp\htdocs\corona\wp-content\plugins\revslider\includes\googlefonts.php on line 43
+
+2020-12-09T02:24:19+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 36864 bytes) in C:\xampp\htdocs\corona\wp-includes\functions.php on line 599
+
+2020-12-09T02:24:26+00:00 CRITICAL Out of memory (allocated 18874368) (tried to allocate 28672 bytes) in C:\xampp\htdocs\corona\wp-content\plugins\revslider\includes\googlefonts.php on line 43
+
+2020-12-09T02:57:45+00:00 CRITICAL Out of memory (allocated 20971520) (tried to allocate 172032 bytes) in C:\xampp\htdocs\corona\wp-content\plugins\themeftc\includes\footer.php on line 38
+

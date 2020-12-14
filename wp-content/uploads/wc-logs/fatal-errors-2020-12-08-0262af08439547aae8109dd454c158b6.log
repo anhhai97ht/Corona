@@ -1,0 +1,8 @@
+2020-12-08T02:06:45+00:00 CRITICAL Out of memory (allocated 10485760) (tried to allocate 688128 bytes) in C:\xampp\htdocs\corona\wp-includes\class-wp-image-editor-gd.php on line 96
+
+2020-12-08T02:06:47+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 688128 bytes) in C:\xampp\htdocs\corona\wp-includes\class-wp-image-editor-gd.php on line 96
+
+2020-12-08T02:06:47+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 688128 bytes) in C:\xampp\htdocs\corona\wp-includes\class-wp-image-editor-gd.php on line 96
+
+2020-12-08T02:07:44+00:00 CRITICAL Out of memory (allocated 14680064) (tried to allocate 114688 bytes) in C:\xampp\htdocs\corona\wp-content\plugins\mega_main_menu\extensions\dynamic_styles\skin.php on line 466
+

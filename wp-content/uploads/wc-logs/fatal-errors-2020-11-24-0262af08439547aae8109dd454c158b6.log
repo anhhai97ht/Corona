@@ -1,0 +1,60 @@
+2020-11-24T01:29:24+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\corona\wp-content\themes\corona\inc\woo\functions.php:143
+Stack trace:
+#0 C:\xampp\htdocs\corona\wp-content\themes\corona\inc\woo\functions.php(97): ftc_cart_total()
+#1 C:\xampp\htdocs\corona\wp-content\plugins\themeftc-for-elementor\widgets\header\shopping-cart.php(105): ftc_tiny_cart()
+#2 C:\xampp\htdocs\corona\wp-content\plugins\elementor\includes\base\controls-stack.php(1894): Elementor\FTC_Shopping_Cart->render()
+#3 C:\xampp\htdocs\corona\wp-content\plugins\elementor\includes\base\widget-base.php(530): Elementor\Controls_Stack->render_by_mode()
+#4 C:\xampp\htdocs\corona\wp-content\plugins\elementor\includes\base\widget-base.php(643): Elementor\Widget_Base->render_content()
+#5 C:\xampp\htdocs\corona\wp-content\plugins\elementor\includes\base\element-base.php(722): Elementor\Widget_Base->get_raw_data(true)
+#6 C:\xampp\htdocs\corona\wp-content\plugins\elementor\includes\base\element-base.php(722): Elementor\Elemen in C:\xampp\htdocs\corona\wp-content\themes\corona\inc\woo\functions.php on line 143
+
+2020-11-24T01:31:20+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\corona\wp-content\themes\corona\inc\woo\functions.php:143
+Stack trace:
+#0 C:\xampp\htdocs\corona\wp-content\themes\corona\inc\woo\functions.php(97): ftc_cart_total()
+#1 C:\xampp\htdocs\corona\wp-content\plugins\themeftc-for-elementor\widgets\header\shopping-cart.php(105): ftc_tiny_cart()
+#2 C:\xampp\htdocs\corona\wp-content\plugins\elementor\includes\base\controls-stack.php(1894): Elementor\FTC_Shopping_Cart->render()
+#3 C:\xampp\htdocs\corona\wp-content\plugins\elementor\includes\base\widget-base.php(530): Elementor\Controls_Stack->render_by_mode()
+#4 C:\xampp\htdocs\corona\wp-content\plugins\elementor\includes\base\widget-base.php(643): Elementor\Widget_Base->render_content()
+#5 C:\xampp\htdocs\corona\wp-content\plugins\elementor\includes\base\element-base.php(722): Elementor\Widget_Base->get_raw_data(true)
+#6 C:\xampp\htdocs\corona\wp-content\plugins\elementor\includes\base\element-base.php(722): Elementor\Elemen in C:\xampp\htdocs\corona\wp-content\themes\corona\inc\woo\functions.php on line 143
+
+2020-11-24T01:39:19+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\corona\wp-content\themes\corona\inc\woo\functions.php:143
+Stack trace:
+#0 C:\xampp\htdocs\corona\wp-content\themes\corona\inc\woo\functions.php(97): ftc_cart_total()
+#1 C:\xampp\htdocs\corona\wp-content\plugins\themeftc-for-elementor\widgets\header\shopping-cart.php(105): ftc_tiny_cart()
+#2 C:\xampp\htdocs\corona\wp-content\plugins\elementor\includes\base\controls-stack.php(1894): Elementor\FTC_Shopping_Cart->render()
+#3 C:\xampp\htdocs\corona\wp-content\plugins\elementor\includes\base\widget-base.php(530): Elementor\Controls_Stack->render_by_mode()
+#4 C:\xampp\htdocs\corona\wp-content\plugins\elementor\includes\base\widget-base.php(643): Elementor\Widget_Base->render_content()
+#5 C:\xampp\htdocs\corona\wp-content\plugins\elementor\includes\base\element-base.php(722): Elementor\Widget_Base->get_raw_data(true)
+#6 C:\xampp\htdocs\corona\wp-content\plugins\elementor\includes\base\element-base.php(722): Elementor\Elemen in C:\xampp\htdocs\corona\wp-content\themes\corona\inc\woo\functions.php on line 143
+
+2020-11-24T01:40:04+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\corona\wp-content\themes\corona\inc\woo\functions.php:143
+Stack trace:
+#0 C:\xampp\htdocs\corona\wp-content\themes\corona\inc\woo\functions.php(97): ftc_cart_total()
+#1 C:\xampp\htdocs\corona\wp-content\plugins\themeftc-for-elementor\widgets\header\shopping-cart.php(105): ftc_tiny_cart()
+#2 C:\xampp\htdocs\corona\wp-content\plugins\elementor\includes\base\controls-stack.php(1894): Elementor\FTC_Shopping_Cart->render()
+#3 C:\xampp\htdocs\corona\wp-content\plugins\elementor\includes\base\widget-base.php(530): Elementor\Controls_Stack->render_by_mode()
+#4 C:\xampp\htdocs\corona\wp-content\plugins\elementor\includes\base\widget-base.php(643): Elementor\Widget_Base->render_content()
+#5 C:\xampp\htdocs\corona\wp-content\plugins\elementor\includes\base\element-base.php(722): Elementor\Widget_Base->get_raw_data(true)
+#6 C:\xampp\htdocs\corona\wp-content\plugins\elementor\includes\base\element-base.php(722): Elementor\Elemen in C:\xampp\htdocs\corona\wp-content\themes\corona\inc\woo\functions.php on line 143
+
+2020-11-24T01:42:59+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\corona\wp-content\themes\corona\inc\woo\functions.php:143
+Stack trace:
+#0 C:\xampp\htdocs\corona\wp-content\themes\corona\inc\woo\functions.php(97): ftc_cart_total()
+#1 C:\xampp\htdocs\corona\wp-content\plugins\themeftc-for-elementor\widgets\header\shopping-cart.php(105): ftc_tiny_cart()
+#2 C:\xampp\htdocs\corona\wp-content\plugins\elementor\includes\base\controls-stack.php(1894): Elementor\FTC_Shopping_Cart->render()
+#3 C:\xampp\htdocs\corona\wp-content\plugins\elementor\includes\base\widget-base.php(530): Elementor\Controls_Stack->render_by_mode()
+#4 C:\xampp\htdocs\corona\wp-content\plugins\elementor\includes\base\widget-base.php(643): Elementor\Widget_Base->render_content()
+#5 C:\xampp\htdocs\corona\wp-content\plugins\elementor\includes\base\element-base.php(722): Elementor\Widget_Base->get_raw_data(true)
+#6 C:\xampp\htdocs\corona\wp-content\plugins\elementor\includes\base\element-base.php(722): Elementor\Elemen in C:\xampp\htdocs\corona\wp-content\themes\corona\inc\woo\functions.php on line 143
+
+2020-11-24T01:44:11+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\corona\wp-content\themes\corona\inc\woo\functions.php:143
+Stack trace:
+#0 C:\xampp\htdocs\corona\wp-content\themes\corona\inc\woo\functions.php(97): ftc_cart_total()
+#1 C:\xampp\htdocs\corona\wp-content\plugins\themeftc-for-elementor\widgets\header\shopping-cart.php(105): ftc_tiny_cart()
+#2 C:\xampp\htdocs\corona\wp-content\plugins\elementor\includes\base\controls-stack.php(1894): Elementor\FTC_Shopping_Cart->render()
+#3 C:\xampp\htdocs\corona\wp-content\plugins\elementor\includes\base\widget-base.php(530): Elementor\Controls_Stack->render_by_mode()
+#4 C:\xampp\htdocs\corona\wp-content\plugins\elementor\includes\base\widget-base.php(643): Elementor\Widget_Base->render_content()
+#5 C:\xampp\htdocs\corona\wp-content\plugins\elementor\includes\base\element-base.php(722): Elementor\Widget_Base->get_raw_data(true)
+#6 C:\xampp\htdocs\corona\wp-content\plugins\elementor\includes\base\element-base.php(722): Elementor\Elemen in C:\xampp\htdocs\corona\wp-content\themes\corona\inc\woo\functions.php on line 143
+

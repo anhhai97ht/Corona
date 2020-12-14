@@ -1,0 +1,120 @@
+2020-12-14T06:52:35+00:00 CRITICAL Uncaught Error: Call to undefined function esc_html_() in C:\xampp\htdocs\corona\wp-content\plugins\themeftc\shortcode\register.php:661
+Stack trace:
+#0 C:\xampp\htdocs\corona\wp-includes\class-wp-hook.php(287): Ftc_Team_Members->custom_column_headers(Array)
+#1 C:\xampp\htdocs\corona\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\corona\wp-admin\includes\class-wp-posts-list-table.php(695): apply_filters('manage_ftc_team...', Array)
+#3 C:\xampp\htdocs\corona\wp-includes\class-wp-hook.php(287): WP_Posts_List_Table->get_columns(Array)
+#4 C:\xampp\htdocs\corona\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#5 C:\xampp\htdocs\corona\wp-admin\includes\screen.php(37): apply_filters('manage_edit-ftc...', Array)
+#6 C:\xampp\htdocs\corona\wp-admin\includes\class-wp-screen.php(995): get_column_headers(Object(WP_Screen))
+#7 C:\xampp\htdocs\corona\wp-admin\includes\class-wp-screen.php(956): WP_Screen->show_screen_options()
+#8 C:\xampp\htdocs\corona\wp-admin\admin-he in C:\xampp\htdocs\corona\wp-content\plugins\themeftc\shortcode\register.php on line 661
+
+2020-12-14T06:54:13+00:00 CRITICAL Uncaught Error: Call to undefined function esc_html_() in C:\xampp\htdocs\corona\wp-content\plugins\themeftc\shortcode\register.php:661
+Stack trace:
+#0 C:\xampp\htdocs\corona\wp-includes\class-wp-hook.php(287): Ftc_Team_Members->custom_column_headers(Array)
+#1 C:\xampp\htdocs\corona\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\corona\wp-admin\includes\class-wp-posts-list-table.php(695): apply_filters('manage_ftc_team...', Array)
+#3 C:\xampp\htdocs\corona\wp-includes\class-wp-hook.php(287): WP_Posts_List_Table->get_columns(Array)
+#4 C:\xampp\htdocs\corona\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#5 C:\xampp\htdocs\corona\wp-admin\includes\screen.php(37): apply_filters('manage_edit-ftc...', Array)
+#6 C:\xampp\htdocs\corona\wp-admin\includes\class-wp-screen.php(995): get_column_headers(Object(WP_Screen))
+#7 C:\xampp\htdocs\corona\wp-admin\includes\class-wp-screen.php(956): WP_Screen->show_screen_options()
+#8 C:\xampp\htdocs\corona\wp-admin\admin-he in C:\xampp\htdocs\corona\wp-content\plugins\themeftc\shortcode\register.php on line 661
+
+2020-12-14T06:59:20+00:00 CRITICAL Uncaught Error: Call to undefined function esc_html_() in C:\xampp\htdocs\corona\wp-content\plugins\themeftc\shortcode\register.php:661
+Stack trace:
+#0 C:\xampp\htdocs\corona\wp-includes\class-wp-hook.php(287): Ftc_Team_Members->custom_column_headers(Array)
+#1 C:\xampp\htdocs\corona\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\corona\wp-admin\includes\class-wp-posts-list-table.php(695): apply_filters('manage_ftc_team...', Array)
+#3 C:\xampp\htdocs\corona\wp-includes\class-wp-hook.php(287): WP_Posts_List_Table->get_columns(Array)
+#4 C:\xampp\htdocs\corona\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#5 C:\xampp\htdocs\corona\wp-admin\includes\screen.php(37): apply_filters('manage_edit-ftc...', Array)
+#6 C:\xampp\htdocs\corona\wp-admin\includes\class-wp-screen.php(995): get_column_headers(Object(WP_Screen))
+#7 C:\xampp\htdocs\corona\wp-admin\includes\class-wp-screen.php(956): WP_Screen->show_screen_options()
+#8 C:\xampp\htdocs\corona\wp-admin\admin-he in C:\xampp\htdocs\corona\wp-content\plugins\themeftc\shortcode\register.php on line 661
+
+2020-12-14T06:59:50+00:00 CRITICAL Uncaught Error: Call to undefined function esc_html_() in C:\xampp\htdocs\corona\wp-content\plugins\themeftc\shortcode\register.php:661
+Stack trace:
+#0 C:\xampp\htdocs\corona\wp-includes\class-wp-hook.php(287): Ftc_Team_Members->custom_column_headers(Array)
+#1 C:\xampp\htdocs\corona\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\corona\wp-admin\includes\class-wp-posts-list-table.php(695): apply_filters('manage_ftc_team...', Array)
+#3 C:\xampp\htdocs\corona\wp-includes\class-wp-hook.php(287): WP_Posts_List_Table->get_columns(Array)
+#4 C:\xampp\htdocs\corona\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#5 C:\xampp\htdocs\corona\wp-admin\includes\screen.php(37): apply_filters('manage_edit-ftc...', Array)
+#6 C:\xampp\htdocs\corona\wp-admin\includes\class-wp-screen.php(995): get_column_headers(Object(WP_Screen))
+#7 C:\xampp\htdocs\corona\wp-admin\includes\class-wp-screen.php(956): WP_Screen->show_screen_options()
+#8 C:\xampp\htdocs\corona\wp-admin\admin-he in C:\xampp\htdocs\corona\wp-content\plugins\themeftc\shortcode\register.php on line 661
+
+2020-12-14T07:00:13+00:00 CRITICAL Uncaught Error: Call to undefined function esc_html_() in C:\xampp\htdocs\corona\wp-content\plugins\themeftc\shortcode\register.php:661
+Stack trace:
+#0 C:\xampp\htdocs\corona\wp-includes\class-wp-hook.php(287): Ftc_Team_Members->custom_column_headers(Array)
+#1 C:\xampp\htdocs\corona\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\corona\wp-admin\includes\class-wp-posts-list-table.php(695): apply_filters('manage_ftc_team...', Array)
+#3 C:\xampp\htdocs\corona\wp-includes\class-wp-hook.php(287): WP_Posts_List_Table->get_columns(Array)
+#4 C:\xampp\htdocs\corona\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#5 C:\xampp\htdocs\corona\wp-admin\includes\screen.php(37): apply_filters('manage_edit-ftc...', Array)
+#6 C:\xampp\htdocs\corona\wp-admin\includes\class-wp-screen.php(995): get_column_headers(Object(WP_Screen))
+#7 C:\xampp\htdocs\corona\wp-admin\includes\class-wp-screen.php(956): WP_Screen->show_screen_options()
+#8 C:\xampp\htdocs\corona\wp-admin\admin-he in C:\xampp\htdocs\corona\wp-content\plugins\themeftc\shortcode\register.php on line 661
+
+2020-12-14T07:01:28+00:00 CRITICAL Uncaught Error: Call to undefined function esc_html_() in C:\xampp\htdocs\corona\wp-content\plugins\themeftc\shortcode\register.php:661
+Stack trace:
+#0 C:\xampp\htdocs\corona\wp-includes\class-wp-hook.php(287): Ftc_Team_Members->custom_column_headers(Array)
+#1 C:\xampp\htdocs\corona\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\corona\wp-admin\includes\class-wp-posts-list-table.php(695): apply_filters('manage_ftc_team...', Array)
+#3 C:\xampp\htdocs\corona\wp-includes\class-wp-hook.php(287): WP_Posts_List_Table->get_columns(Array)
+#4 C:\xampp\htdocs\corona\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#5 C:\xampp\htdocs\corona\wp-admin\includes\screen.php(37): apply_filters('manage_edit-ftc...', Array)
+#6 C:\xampp\htdocs\corona\wp-admin\includes\class-wp-screen.php(995): get_column_headers(Object(WP_Screen))
+#7 C:\xampp\htdocs\corona\wp-admin\includes\class-wp-screen.php(956): WP_Screen->show_screen_options()
+#8 C:\xampp\htdocs\corona\wp-admin\admin-he in C:\xampp\htdocs\corona\wp-content\plugins\themeftc\shortcode\register.php on line 661
+
+2020-12-14T07:13:04+00:00 CRITICAL Uncaught Error: Call to undefined function esc_html_() in C:\xampp\htdocs\corona\wp-content\plugins\themeftc\shortcode\register.php:661
+Stack trace:
+#0 C:\xampp\htdocs\corona\wp-includes\class-wp-hook.php(287): Ftc_Team_Members->custom_column_headers(Array)
+#1 C:\xampp\htdocs\corona\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\corona\wp-admin\includes\class-wp-posts-list-table.php(695): apply_filters('manage_ftc_team...', Array)
+#3 C:\xampp\htdocs\corona\wp-includes\class-wp-hook.php(287): WP_Posts_List_Table->get_columns(Array)
+#4 C:\xampp\htdocs\corona\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#5 C:\xampp\htdocs\corona\wp-admin\includes\screen.php(37): apply_filters('manage_edit-ftc...', Array)
+#6 C:\xampp\htdocs\corona\wp-admin\includes\class-wp-screen.php(995): get_column_headers(Object(WP_Screen))
+#7 C:\xampp\htdocs\corona\wp-admin\includes\class-wp-screen.php(956): WP_Screen->show_screen_options()
+#8 C:\xampp\htdocs\corona\wp-admin\admin-he in C:\xampp\htdocs\corona\wp-content\plugins\themeftc\shortcode\register.php on line 661
+
+2020-12-14T07:15:49+00:00 CRITICAL Uncaught Error: Call to undefined function esc_html_() in C:\xampp\htdocs\corona\wp-content\plugins\themeftc\shortcode\register.php:661
+Stack trace:
+#0 C:\xampp\htdocs\corona\wp-includes\class-wp-hook.php(287): Ftc_Team_Members->custom_column_headers(Array)
+#1 C:\xampp\htdocs\corona\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\corona\wp-admin\includes\class-wp-posts-list-table.php(695): apply_filters('manage_ftc_team...', Array)
+#3 C:\xampp\htdocs\corona\wp-includes\class-wp-hook.php(287): WP_Posts_List_Table->get_columns(Array)
+#4 C:\xampp\htdocs\corona\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#5 C:\xampp\htdocs\corona\wp-admin\includes\screen.php(37): apply_filters('manage_edit-ftc...', Array)
+#6 C:\xampp\htdocs\corona\wp-admin\includes\class-wp-screen.php(995): get_column_headers(Object(WP_Screen))
+#7 C:\xampp\htdocs\corona\wp-admin\includes\class-wp-screen.php(956): WP_Screen->show_screen_options()
+#8 C:\xampp\htdocs\corona\wp-admin\admin-he in C:\xampp\htdocs\corona\wp-content\plugins\themeftc\shortcode\register.php on line 661
+
+2020-12-14T07:15:56+00:00 CRITICAL Uncaught Error: Call to undefined function esc_html_() in C:\xampp\htdocs\corona\wp-content\plugins\themeftc\shortcode\register.php:661
+Stack trace:
+#0 C:\xampp\htdocs\corona\wp-includes\class-wp-hook.php(287): Ftc_Team_Members->custom_column_headers(Array)
+#1 C:\xampp\htdocs\corona\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\corona\wp-admin\includes\class-wp-posts-list-table.php(695): apply_filters('manage_ftc_team...', Array)
+#3 C:\xampp\htdocs\corona\wp-includes\class-wp-hook.php(287): WP_Posts_List_Table->get_columns(Array)
+#4 C:\xampp\htdocs\corona\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#5 C:\xampp\htdocs\corona\wp-admin\includes\screen.php(37): apply_filters('manage_edit-ftc...', Array)
+#6 C:\xampp\htdocs\corona\wp-admin\includes\class-wp-screen.php(995): get_column_headers(Object(WP_Screen))
+#7 C:\xampp\htdocs\corona\wp-admin\includes\class-wp-screen.php(956): WP_Screen->show_screen_options()
+#8 C:\xampp\htdocs\corona\wp-admin\admin-he in C:\xampp\htdocs\corona\wp-content\plugins\themeftc\shortcode\register.php on line 661
+
+2020-12-14T07:18:36+00:00 CRITICAL Uncaught Error: Call to undefined function esc_html_() in C:\xampp\htdocs\corona\wp-content\plugins\themeftc\shortcode\register.php:661
+Stack trace:
+#0 C:\xampp\htdocs\corona\wp-includes\class-wp-hook.php(287): Ftc_Team_Members->custom_column_headers(Array)
+#1 C:\xampp\htdocs\corona\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\corona\wp-admin\includes\class-wp-posts-list-table.php(695): apply_filters('manage_ftc_team...', Array)
+#3 C:\xampp\htdocs\corona\wp-includes\class-wp-hook.php(287): WP_Posts_List_Table->get_columns(Array)
+#4 C:\xampp\htdocs\corona\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#5 C:\xampp\htdocs\corona\wp-admin\includes\screen.php(37): apply_filters('manage_edit-ftc...', Array)
+#6 C:\xampp\htdocs\corona\wp-admin\includes\class-wp-screen.php(995): get_column_headers(Object(WP_Screen))
+#7 C:\xampp\htdocs\corona\wp-admin\includes\class-wp-screen.php(956): WP_Screen->show_screen_options()
+#8 C:\xampp\htdocs\corona\wp-admin\admin-he in C:\xampp\htdocs\corona\wp-content\plugins\themeftc\shortcode\register.php on line 661
+
